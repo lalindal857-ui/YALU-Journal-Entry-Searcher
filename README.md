@@ -1,0 +1,1 @@
+# YALU Journal Entry Searcher\nCompact Excel journal searcher. Copies Description (Entry No.), displays Cost Center, shows Prepared By Lakshan notification, and supports + / - resizing.\n
